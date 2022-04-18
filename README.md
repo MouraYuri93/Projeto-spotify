@@ -1,5 +1,3 @@
-<h1><img src="img/home.PNG"></h1>
-
 ### 📚 Sobre
 
 Este é um clone da antiga página inicial do site Spotify, desenvolvida durante o Curso De Desenvolvimento Web Completo.
